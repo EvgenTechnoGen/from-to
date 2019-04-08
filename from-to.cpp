@@ -9,3 +9,6 @@ int main () {
     if (num > 10 && num < 20) {
         cout << num * num << endl;
     }
+    else if (num < 10 || num > 20) {
+        cout << num << endl;
+    }
