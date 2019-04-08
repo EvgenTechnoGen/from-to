@@ -12,3 +12,9 @@ int main () {
     else if (num < 10 || num > 20) {
         cout << num << endl;
     }
+    
+    
+    cin.get();
+    return 0;
+}
+
