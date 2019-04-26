@@ -6,7 +6,7 @@ int main (int argc, const char * argv[]) {
     std::cin >> num;
 
     if (num > 10 && num < 20) {
-        std::cout << num * num << endl;
+        std::cout << num * num << std::endl;
     }
     else if (num < 10 || num > 20) {
         cout << num << endl;
