@@ -3,7 +3,7 @@
 int main (int argc, const char * argv[]) {
     int num;
     std::cout << "Enter a number:" << std::endl;
-    cin >> num;
+    std::cin >> num;
 
     if (num > 10 && num < 20) {
         cout << num * num << endl;
