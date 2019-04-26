@@ -2,7 +2,7 @@
 
 int main (int argc, const char * argv[]) {
     int num;
-    std::cout << "Enter a number:" << endl;
+    std::cout << "Enter a number:" << std::endl;
     cin >> num;
 
     if (num > 10 && num < 20) {
