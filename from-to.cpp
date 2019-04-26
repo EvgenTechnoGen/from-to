@@ -13,7 +13,7 @@ int main (int argc, const char * argv[]) {
     }
     
     
-    cin.get();
+    std::cin.get();
     return 0;
 }
 
