@@ -9,7 +9,7 @@ int main (int argc, const char * argv[]) {
         std::cout << num * num << std::endl;
     }
     else if (num < 10 || num > 20) {
-        cout << num << endl;
+        std::cout << num << endl;
     }
     
     
