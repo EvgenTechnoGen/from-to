@@ -14,6 +14,7 @@ int main (int argc, const char * argv[]) {
     
     
     std::cin.get();
+    system("pause");
     return 0;
 }
 
